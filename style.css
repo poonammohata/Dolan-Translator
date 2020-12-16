@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+:root{
+    --darkblue-color:#1E40AF;
+    --lightblue-color:
+    #DBEAFE;
+    --off-white:#F3F4F6;
+}
+
+body{
+    font-family:'Lobster', cursive;;
+    margin: 0;
+    padding: 0;
+}

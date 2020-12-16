@@ -6,9 +6,65 @@
     #DBEAFE;
     --off-white:#F3F4F6;
 }
-
 body{
     font-family:'Lobster', cursive;;
     margin: 0;
     padding: 0;
+}
+.header{
+    padding: 1rem;
+    max-width: 300px;
+    margin: auto;
+    height: 10vh;
+}
+.header img {
+    float: left;
+    width: 50px;
+    height: 50px;
+  }
+.header h1 {
+    position: relative;
+    top:-12px;
+    left: 10px;
+    color: var(--darkblue-color);
+  }
+  .container-center{
+    width:100%;
+    margin: auto;
+    background-color: var(--darkblue-color);
+    height: 90vh;
+}
+textarea{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;;
+    width: 300px;
+    height: 20vh;
+    border: 1px solid black;
+    padding: 1rem;
+    border-radius: 20px;
+    box-shadow: 2px 3px;
+}
+div{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 20vh;
+    border: 1px solid black;
+    padding: 1rem;
+    border-radius:20px;
+    background-color:var(--lightblue-color);
+    box-shadow: 2px 3px;
+    overflow: auto;
+}
+button{
+    display: block;
+    margin:1rem auto;
+    border-radius:20px;
+    border: 0px solid black;
+    padding:0.5rem 1rem;
+}
+p{
+    text-align: center;
 }

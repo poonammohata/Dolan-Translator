@@ -112,10 +112,6 @@ footer{
     margin-top: 4rem;
     color: var(--off-white);
 }
-footer h4{
-    margin-bottom: 0px;
-    padding-bottom: 0px;
-}
 
 footer p{
     color: var(--off-white);

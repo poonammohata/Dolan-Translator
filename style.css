@@ -79,6 +79,9 @@ button{
     color: white;
     outline:none
 }
+button:focus {
+    background-color: var(--donald-blue-color);
+  }
 p{
     margin:0rem auto;
     margin-bottom: 1.5rem;

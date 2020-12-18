@@ -118,6 +118,7 @@ footer p{
     text-align: center;
     margin: 0 auto;
     max-width: 400px;
+    padding:0rem 2rem;
 }
 footer li{
     padding: 0rem 1rem;   

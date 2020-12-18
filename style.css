@@ -82,6 +82,7 @@ button{
 button:focus {
     background-color: var(--donald-blue-color);
   }
+
 p{
     margin:0rem auto;
     margin-bottom: 1.5rem;
@@ -109,6 +110,18 @@ footer{
     overflow: hidden;
     padding: 0;
     margin-top: 4rem;
+    color: var(--off-white);
+}
+footer h4{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+footer p{
+    color: var(--off-white);
+    text-align: center;
+    margin: 0 auto;
+    max-width: 400px;
 }
 footer li{
     padding: 0rem 1rem;   

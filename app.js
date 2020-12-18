@@ -1,6 +1,6 @@
-var btnTranslate=document.querySelector("#btn-translator");
+var btnTranslate=document.querySelector("#btn-translate");
 var textInput=document.querySelector("#text-input");
-var textTranslate=document.querySelector("#text-translate");
+var textTranslate=document.querySelector("#text-output");
 
 var url="https://api.funtranslations.com/translate/dolan";
 

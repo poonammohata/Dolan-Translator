@@ -14,7 +14,7 @@ The motivation behind creating this project is [neogcamp](https://neog.camp/)
 
 # Api Reference
 To translate the english language to minion language funtranslation api is used
-[here'the url](https://api.funtranslations.com/translate/minion.json
+[here'the url](https://api.funtranslations.com/minion
 )
 
 # Usage
